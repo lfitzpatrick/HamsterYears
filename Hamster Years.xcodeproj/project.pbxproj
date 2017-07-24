@@ -12,6 +12,7 @@
 		0BDBB6261F25BE4800FEA59B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BDBB6241F25BE4800FEA59B /* Main.storyboard */; };
 		0BDBB6281F25BE4800FEA59B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BDBB6271F25BE4800FEA59B /* Assets.xcassets */; };
 		0BDBB62B1F25BE4800FEA59B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BDBB6291F25BE4800FEA59B /* LaunchScreen.storyboard */; };
+		0BDBB6331F25BF9400FEA59B /* Day 01 - Image Example.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0BDBB6321F25BF9400FEA59B /* Day 01 - Image Example.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0BDBB6271F25BE4800FEA59B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0BDBB62A1F25BE4800FEA59B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0BDBB62C1F25BE4800FEA59B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BDBB6321F25BF9400FEA59B /* Day 01 - Image Example.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Day 01 - Image Example.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0BDBB6201F25BE4800FEA59B /* AppDelegate.swift */,
 				0BDBB6221F25BE4800FEA59B /* ViewController.swift */,
 				0BDBB6241F25BE4800FEA59B /* Main.storyboard */,
+				0BDBB6321F25BF9400FEA59B /* Day 01 - Image Example.jpg */,
 				0BDBB6271F25BE4800FEA59B /* Assets.xcassets */,
 				0BDBB6291F25BE4800FEA59B /* LaunchScreen.storyboard */,
 				0BDBB62C1F25BE4800FEA59B /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BDBB6331F25BF9400FEA59B /* Day 01 - Image Example.jpg in Resources */,
 				0BDBB62B1F25BE4800FEA59B /* LaunchScreen.storyboard in Resources */,
 				0BDBB6281F25BE4800FEA59B /* Assets.xcassets in Resources */,
 				0BDBB6261F25BE4800FEA59B /* Main.storyboard in Resources */,
