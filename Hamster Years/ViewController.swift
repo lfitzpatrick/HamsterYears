@@ -19,15 +19,16 @@ class ViewController: UIViewController {
         // Test that everything works, remove once successful
         print(ageTextField.text as Any)
         
-        // Convert ageTextField.text to an integer using Int ()
-        // Since the value is optional use ! at the end of value
-        // Assign the value to ageInHamsterYears
-        // Use let instead of var
-        let ageInHamsterYears = Int (ageTextField.text!)! * 26
         
-        // Convert value to String using String ()
-        // Assign the string to ageLabel.text
-        ageLabel.text = String (ageInHamsterYears)
+        if let tempAge = ageTextField.text {
+            
+            let ageInHamsterYears = Int (tempAge)! * 26
+            
+            ageLabel.text = String (ageInHamsterYears)
+            
+        }
+        
+        
     }
     override func viewDidLoad() {
         super.viewDidLoad()
